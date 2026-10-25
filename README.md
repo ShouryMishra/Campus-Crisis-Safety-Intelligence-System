@@ -17,3 +17,14 @@ HTML, CSS, JavaScript, Git and GitHub.
 
 ## How to run
 Open index.html in a web browser.
+
+## Project Purpose
+
+This project demonstrates a campus safety incident-reporting website.
+
+## Features
+
+- Incident reporting
+- Incident category and severity
+- Location and description
+- Incident dashboard
