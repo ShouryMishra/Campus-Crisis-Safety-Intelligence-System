@@ -55,3 +55,12 @@ li {
   margin: 12px 0;
   overflow-wrap: anywhere;
 }
+
+header {
+  padding: 30px;
+  text-align: center;
+}
+
+button:hover {
+  opacity: 0.85;
+}
